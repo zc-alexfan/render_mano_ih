@@ -1,0 +1,10 @@
+chumpy==0.70
+dataclasses==0.8
+lmdb==1.2.1
+numpy==1.19.5
+opencv-python==4.5.4.60
+Pillow==8.4.0
+pyarrow==3.0.0
+tqdm==4.62.3
+smplx==0.1.28
+scikit-image==0.17.2

@@ -1,0 +1,10 @@
+_discard/
+__pycache__/
+.ipynb_checkpoints/
+annotations/
+data/
+notebooks/
+vis/
+metas/
+outputs/
+*.lmdb
