@@ -1,3 +1,5 @@
+
+
 # MANO Renderer
 
 > A quick-and-dirty script to render hand part segmentation masks from MANO meshes in [InterHand2.6M](https://github.com/facebookresearch/InterHand2.6M). The segmentations are used in [DIGIT](https://github.com/zc-alexfan/digit-interacting). 
@@ -67,7 +69,7 @@ tree ./data
     |-- model
     |   |-- MANO_LEFT.pkl
     |   `-- MANO_RIGHT.pkl
-    `-- seale_faces.npy
+    `-- sealed_faces.npy
 ```
 
 Inside `./data/annotations` it should look like the below:
@@ -130,12 +132,3 @@ If you found the code useful, please consider citing:
   year={2021}
 }
 ```
-
-
-
-
-
-
-
-
-
